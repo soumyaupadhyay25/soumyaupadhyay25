@@ -6,7 +6,7 @@
 </h1>
 
 - I’m currently learning React JS and Django
-- How to reach me: soumyaupadhyay2504@gmail.com
+- To reach me: soumyaupadhyay2504@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="29px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/soumya-upadhyay-175306258/)
